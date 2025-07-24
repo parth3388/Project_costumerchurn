@@ -57,11 +57,11 @@ Some ideas:
 
 Who made this?
 --------------------
-This app was created by Parth Goyal – a B.Tech CSE student passionate about web development and machine learning.
+This app was created by Parth  – a B.Tech CSE student passionate about web development and machine learning.
 
 License
 --------------------
 Free to use and modify for learning or personal projects.
 Just give credit when you share it.
 
-Thanks for checking this out! 🙂
+Thanks for checking this out! 🙂\
